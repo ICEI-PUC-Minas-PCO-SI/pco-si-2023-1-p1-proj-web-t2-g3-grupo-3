@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Felipe Fernandes de Bellis Ruas
-* Gabriel Arrabal 
+* Gabriel Arrabal da Silva
 * Gabriel Neves Oliveira Quintão
 * Pedro Arthur Dos Santos
 * Pedro Henrique Silva Matta
