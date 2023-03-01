@@ -3,7 +3,7 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nossa missão é ajudar moradores, turistas, e estudantes que tem dificuldade de encontrar barbearias na Grande Belo Horizonte que atendem aos requisitos do cliente: preço, produtos utilizados, tipos de cabelo, espaço para lazer, bebidas, cortes para crianças e idosos, cada um de acordo com sua necessidade
+O problema que nos levou a criar a aplicação foi a dificuldade de moradores, turistas, e estudantes de encontrar barbearias na Grande Belo Horizonte que atendem aos requisitos do cliente: preço, produtos utilizados, tipos de cabelo, espaço para lazer, bebidas, cortes para crianças e idosos, cada um de acordo com sua necessidade
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
