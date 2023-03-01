@@ -3,11 +3,7 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-O problema que nos levou a criar a aplicação foi a dificuldade de moradores, turistas, e estudantes de encontrar barbearias na Grande Belo Horizonte que atendem aos requisitos do cliente: preço, produtos utilizados, tipos de cabelo, espaço para lazer, bebidas, cortes para crianças e idosos, cada um de acordo com sua necessidade
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+O problema que nos levou a criar a aplicação, se dá ao fato de que há uma grande dificuldade de moradores, turistas, e estudantes de encontrar barbearias na Grande Belo Horizonte que atendem a alguns requisitos específicos de cada cliente, como: preço, produtos utilizados, tipos de cabelo, espaço para lazer, bebidas, cortes para crianças e idosos, cada um de acordo com sua necessidade.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
