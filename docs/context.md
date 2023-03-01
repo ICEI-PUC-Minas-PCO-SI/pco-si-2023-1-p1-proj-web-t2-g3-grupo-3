@@ -16,9 +16,7 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Diante do problema apresentado anteriormente, o objetivo da aplicação é fazer com que o usuário encontre da forma mais rápida e concreta possível o estabelecimento que mais o agradaria em relação as opções que o mesmo procura. Essa procura será realizada dentro de um raio, em que a distância do usuário até o local desejado seja viável para locomoção e pontualidade ao horário marcado.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
