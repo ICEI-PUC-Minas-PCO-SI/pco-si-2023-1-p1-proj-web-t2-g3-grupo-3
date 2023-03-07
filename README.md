@@ -16,6 +16,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Gabriel Neves Oliveira Quintão
 * Pedro Arthur Dos Santos
 * Pedro Henrique Silva Matta
+* Samuel Araújo Silva
 
 ## Orientador
 
