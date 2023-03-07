@@ -20,7 +20,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Fábio Cordeiro
+* Fábio Leandro Rodrigues Cordeiro
 
 # Planejamento
 
