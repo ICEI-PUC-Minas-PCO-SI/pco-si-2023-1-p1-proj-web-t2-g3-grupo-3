@@ -6,7 +6,13 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Mohammad tem 26 anos e é natural da Arábia Saudita, dono de uma multi-nacional no seu País que é responsável por criar camelos. Veio para o Brasil visitar seus amigos e família, que moram na cidade de Belo Horizonte. Sendo uma pessoa muito vaidosa, Mohammad gosta de fazer a barba de 5 em 5 dias, mas tem uma alergia que impossibilita fazer ele mesmo, sendo necessário um tratamento especial para sua barba, e tem dificuldades de encontrar barbearias que consigam antende-lo da melhor forma.
+Persona 2
+Persona 3
+Persona 4
+Persona 5
+Persona 6
+
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
