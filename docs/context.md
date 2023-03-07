@@ -18,9 +18,7 @@ Diante do problema apresentado anteriormente, o objetivo da aplicação é fazer
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+As barbearias são desinteressantes para muitas pessoas, não só em termos de ambiente, mas também no quesito de infraestrutura. Esse projeto foi criado com o intuito de resolver esse problema, já que propõe localizações de barbearias que sejam capazes de atender o público e garantir um maior lazer tornando um espaço melhor para o atendimento do cliente. Ao localizar barbearias mais próximas os clientes conseguiram achar os estabelecimentos que mais atendem as suas necessidades seja por produto utilizado, corte de cabelo ou ate mesmo um bom lugar para conversar.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
