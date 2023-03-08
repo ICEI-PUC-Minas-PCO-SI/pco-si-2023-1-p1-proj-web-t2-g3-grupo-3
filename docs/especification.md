@@ -9,7 +9,9 @@ Este documento irá abordar de forma mais específica sobre do que se trata a ap
 ## Personas
 
 * Mohammad tem 26 anos e é natural da Arábia Saudita, dono de uma multi-nacional no seu País que é responsável por criar camelos. Veio para o Brasil visitar seus amigos e família, que moram na cidade de Belo Horizonte. Sendo uma pessoa muito vaidosa, Mohammad gosta de fazer a barba de 5 em 5 dias, mas tem uma alergia que impossibilita fazer ele mesmo, sendo necessário um tratamento especial para sua barba, e tem dificuldades de encontrar barbearias que consigam antende-lo da melhor forma.
-Persona 2
+
+* Afonso é um senhor de 73 anos, natural de Contagem e aposentado. Por ser uma pessoa com a idade mais avançada, Afonso prefere cortar seu cabelo e fazer a barba em lugares mais próximos de sua casa, com um ambiente mais tranquilo e maduro. As barbearias que Afonso já frequentou eram lugares de público jovem, o deixando desconfortável em relação aos assuntos e ambientes dos estabelecimentos. Por não entender de tecnologia, ele se encontra em uma enorme dificuldade de encontrar uma barbearia que seja de público adulto, pois não sabe como procurar na internet.
+
 Persona 3
 Persona 4
 Persona 5
