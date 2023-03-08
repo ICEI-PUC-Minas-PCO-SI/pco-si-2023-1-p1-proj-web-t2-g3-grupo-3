@@ -6,7 +6,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Mohammad tem 26 anos e é natural da Arábia Saudita, dono de uma multi-nacional no seu País que é responsável por criar camelos. Veio para o Brasil visitar seus amigos e família, que moram na cidade de Belo Horizonte. Sendo uma pessoa muito vaidosa, Mohammad gosta de fazer a barba de 5 em 5 dias, mas tem uma alergia que impossibilita fazer ele mesmo, sendo necessário um tratamento especial para sua barba, e tem dificuldades de encontrar barbearias que consigam antende-lo da melhor forma.
+* Mohammad tem 26 anos e é natural da Arábia Saudita, dono de uma multi-nacional no seu País que é responsável por criar camelos. Veio para o Brasil visitar seus amigos e família, que moram na cidade de Belo Horizonte. Sendo uma pessoa muito vaidosa, Mohammad gosta de fazer a barba de 5 em 5 dias, mas tem uma alergia que impossibilita fazer ele mesmo, sendo necessário um tratamento especial para sua barba, e tem dificuldades de encontrar barbearias que consigam antende-lo da melhor forma.
 Persona 2
 Persona 3
 Persona 4
@@ -32,8 +32,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Mohammad            | Criar, configurar, personalizar sua conta | Encontrar a barbearia ideal     |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
