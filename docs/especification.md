@@ -8,17 +8,17 @@ Este documento irá abordar de forma mais específica sobre do que se trata a ap
 
 ## Personas
 
-* Persona 1: O administrador (terminar)
+* __Persona 1:__ O administrador (terminar)
 
-* Persona 2: Os usuários são todas as personas vistas de um modo geral, com o objetivo de criar e personalizar um perfil com informações e necessidades específicas.
+* __Persona 2:__ Os usuários são todas as personas vistas de um modo geral, com o objetivo de criar e personalizar um perfil com informações e necessidades específicas.
 
-* Persona 3: Os donos das barbearias são as pessoas responsáveis por criar a página e o portifólio da barbearia, com diversas informações como preço, local, produtos utilizados e ambientes.
+* __Persona 3:__ Os donos das barbearias são as pessoas responsáveis por criar a página e o portifólio da barbearia, com diversas informações como preço, local, produtos utilizados e ambientes.
 
-* Persona 4: Mohammad tem 26 anos e é natural da Arábia Saudita, dono de uma multi-nacional no seu País que é responsável por criar camelos. Veio para o Brasil visitar seus amigos e família, que moram na cidade de Belo Horizonte. Sendo uma pessoa muito vaidosa, Mohammad gosta de fazer a barba de 5 em 5 dias, mas tem uma alergia que impossibilita fazer ele mesmo, sendo necessário um tratamento especial para sua barba, e tem dificuldades de encontrar barbearias que consigam antende-lo da melhor forma.
+* __Persona 4:__ Mohammad tem 26 anos e é natural da Arábia Saudita, dono de uma multi-nacional no seu País que é responsável por criar camelos. Veio para o Brasil visitar seus amigos e família, que moram na cidade de Belo Horizonte. Sendo uma pessoa muito vaidosa, Mohammad gosta de fazer a barba de 5 em 5 dias, mas tem uma alergia que impossibilita fazer ele mesmo, sendo necessário um tratamento especial para sua barba, e tem dificuldades de encontrar barbearias que consigam antende-lo da melhor forma.
 
-* Persona 5: Afonso é um senhor de 73 anos, natural de Contagem e aposentado. Por ser uma pessoa com a idade mais avançada, Afonso prefere cortar seu cabelo e fazer a barba uma vez por mês em lugares próximos de sua casa, com um ambiente mais tranquilo e maduro. As barbearias que Afonso já frequentou eram lugares de público jovem, o deixando desconfortável em relação aos assuntos e ambientes dos estabelecimentos. Por não entender de tecnologia, ele se encontra em uma enorme dificuldade de encontrar uma barbearia que seja de público adulto, pois não sabe como procurar na internet.
+* __Persona 5:__ Afonso é um senhor de 73 anos, natural de Contagem e aposentado. Por ser uma pessoa com a idade mais avançada, Afonso prefere cortar seu cabelo e fazer a barba uma vez por mês em lugares próximos de sua casa, com um ambiente mais tranquilo e maduro. As barbearias que Afonso já frequentou eram lugares de público jovem, o deixando desconfortável em relação aos assuntos e ambientes dos estabelecimentos. Por não entender de tecnologia, ele se encontra em uma enorme dificuldade de encontrar uma barbearia que seja de público adulto, pois não sabe como procurar na internet.
 
-* Persona 6: Arthur é pai de César, uma ciança de 9 anos, naturais de Belo Horizonte. Como César precisa cortar o cabelo, Arthur se encontra em uma grande dúvida a qual barbearia deve levar seu filho, devido a falta de espaços e ambientes infantis na maioria dos estabelecimentos. Já que os horários de Arthur eram muito apertados e a mãe de César estava viajando a trabalho, ele procurou por diversos lugares, porém, não encontrava barbearias com horários compatíveis com o dele, impossibilitando o mesmo de levar a criança ao local.
+* __Persona 6:__ Arthur é pai de César, uma ciança de 9 anos, naturais de Belo Horizonte. Como César precisa cortar o cabelo, Arthur se encontra em uma grande dúvida a qual barbearia deve levar seu filho, devido a falta de espaços e ambientes infantis na maioria dos estabelecimentos. Já que os horários de Arthur eram muito apertados e a mãe de César estava viajando a trabalho, ele procurou por diversos lugares, porém, não encontrava barbearias com horários compatíveis com o dele, impossibilitando o mesmo de levar a criança ao local.
 
 
 
