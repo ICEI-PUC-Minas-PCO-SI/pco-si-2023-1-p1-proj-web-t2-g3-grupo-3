@@ -12,7 +12,8 @@ Este documento irá abordar de forma mais específica sobre do que se trata a ap
 
 * Afonso é um senhor de 73 anos, natural de Contagem e aposentado. Por ser uma pessoa com a idade mais avançada, Afonso prefere cortar seu cabelo e fazer a barba uma vez por mês em lugares próximos de sua casa, com um ambiente mais tranquilo e maduro. As barbearias que Afonso já frequentou eram lugares de público jovem, o deixando desconfortável em relação aos assuntos e ambientes dos estabelecimentos. Por não entender de tecnologia, ele se encontra em uma enorme dificuldade de encontrar uma barbearia que seja de público adulto, pois não sabe como procurar na internet.
 
-Persona 3
+* Arthur é pai de César, uma ciança de 9 anos, naturais de Belo Horizonte. Como César precisa cortar o cabelo, Arthur se encontra em uma grande dúvida a qual barbearia deve levar seu filho, devido a falta de espaços e ambientes infantis na maioria dos estabelecimentos. Já que os horários de Arthur eram muito apertados e a mãe de César estava viajando a trabalho, ele procurou por diversos lugares, porém, não encontrava barbearias com horários compatíveis com o dele, impossibilitando o mesmo de levar a criança ao local.
+
 Persona 4
 Persona 5
 Persona 6
