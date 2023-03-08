@@ -1,8 +1,10 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+A aplicação Barber Point é a solução perfeita para pessoas que se encontram indecisas ou insatisfeitas com a barbearia que frequentam, seja por falta de produtos, preço ou o ambiente do local, ou seja, independente de quem é ou o que faz, o usuário poderá encontrar a barbearia que melhor atenda suas necessidades.
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+Para solucionar este problema a aplicação conta com diversas funcionalidades, tais como a completa personalização do perfil do usuário, permissão para criação de um portifólio customizado de cada barbearia, e também a obtenção da localização do usuário, que é extremamente necessário para que a aplicação direcione o usuário até a melhor barbearia na região do mesmo. 
+
+Este documento irá abordar de forma mais específica sobre do que se trata a aplicação, apresentando quais as funcionalidades e restrições.
 
 ## Personas
 
