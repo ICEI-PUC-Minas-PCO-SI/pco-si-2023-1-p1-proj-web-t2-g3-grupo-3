@@ -20,6 +20,7 @@ Este documento irá abordar de forma mais específica sobre do que se trata a ap
 
 * __Persona 6:__ Arthur é pai de César, uma ciança de 9 anos, naturais de Belo Horizonte. Como César precisa cortar o cabelo, Arthur se encontra em uma grande dúvida a qual barbearia deve levar seu filho, devido a falta de espaços e ambientes infantis na maioria dos estabelecimentos. Já que os horários de Arthur eram muito apertados e a mãe de César estava viajando a trabalho, ele procurou por diversos lugares, porém, não encontrava barbearias com horários compatíveis com o dele, impossibilitando o mesmo de levar a criança ao local.
 
+* __Persona 7:__ Lucas Kelvin de apenas 16 anos, natural de Betim, é um jovem que trabalha em uma borracharia e gosta de cortar seu cabelo e fazer seu bigode semanalmente em barbearias que são especializadas em cortes mais criativos, reflexos, disfarçados, dentre outros tipos cortes. Lucas prefere um ambiente com mais diversidades como por exemplo a disponibilidade de um vídeo-game, sinuca e outros jogos. Porém, ele têm encontrado muitas dificuldades em achar barbearias de seu gosto com localidade mais próxima.
 
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
