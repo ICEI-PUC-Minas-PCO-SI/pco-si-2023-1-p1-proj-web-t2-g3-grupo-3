@@ -63,21 +63,26 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
-
 |  ID  | Descrição do Requisito  | Prioridade | Responsável |
 |------|-----------------------------------------|----| ----|
-|RF-001| Permitir que o usuário crie uma conta com suas informações pessoais | ALTA |  |
-|RF-002| Permitir que o usuário inclua requisitos e necessidades que o melhor atenda | ALTA | |
-|RF-003| Permitir que o usuário encontre barbearias condizentes com as necessidades e requisitos próprios | ALTA | |
-|RF-004| Permitir que as barbearias criem seu portifólio detalhado com redes sociais, produtos, cortes, localização, preços, ambiente e características do local | ALTA | |
-|RF-005| Permitir que o usuário consiga marcar horário na barbearia desejada | ALTA | |
+|RF-001| Permitir que o usuário crie uma conta | ALTA |  |
+|RF-002| Permitir que o usuário cadastre sua barbearia | ALTA |  |
+|RF-002| Permitir que o usuário consiga alterar as informações da conta | MÉDIO |  |
+|RF-003| Permitir que o usuário inclua requisitos e necessidades que o melhor atenda | MÉDIO |  |
+|RF-004| Permitir que o usuário encontre barbearias condizentes com as necessidades e requisitos próprios | ALTA |  |
+|RF-005| Permitir que as barbearias criem seu portifólio detalhado com redes sociais, produtos, cortes, localização, preços, ambiente e características do local | ALTA |  |
+|RF-006| Permitir que o usuário consiga marcar horário na barbearia desejada | ALTA |  |
+|RF-007| Permitir que o usuário consiga desmarcar horário nas barbearias | ALTA |  |
+|RF-008| Permitir o usuário consultar quais horários estão marcados em seu nome | ALTA |  |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Deve processar agendamento do usuário em no máximo 3s | BAIXA | 
+|RNF-003| Permitir o cliente avaliar a barbearia | MÉDIA |
+|RNF-004| Permitir o cliente a comentar sobre a barbearia | MÉDIA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
