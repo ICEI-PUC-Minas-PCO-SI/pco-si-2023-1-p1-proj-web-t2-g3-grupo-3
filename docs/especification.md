@@ -71,6 +71,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| Permitir que o usuário encontre barbearias condizentes com as necessidades e requisitos próprios | ALTA | |
 |RF-004| Permitir que as barbearias criem seu portifólio detalhado com redes sociais, produtos, cortes, localização, preços, ambiente e características do local | ALTA | |
 |RF-005| Permitir que o usuário consiga marcar horário na barbearia desejada | ALTA | |
+|RF-006| Permitir que o usuário consiga desmarcar horário nas barbearias | ALTA | |
+|RF-007| Permitir o usuário consultar quais horários estão marcados em seu nome | ALTA | |
 
 ### Requisitos não Funcionais
 
