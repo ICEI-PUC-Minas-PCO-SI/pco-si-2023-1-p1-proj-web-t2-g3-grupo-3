@@ -8,7 +8,7 @@ Para solucionar este problema a aplicação conta com diversas funcionalidades, 
 
 Este documento irá abordar de forma mais específica sobre do que se trata a aplicação, apresentando quais as funcionalidades e restrições.
 
-## Personas (Pedro Matta - Adicionar Persona)
+## Personas 
 
 * __Persona 1:__ Os donos das barbearias são as pessoas responsáveis por criar a página e o portifólio da barbearia, com diversas informações como preço, local, produtos utilizados e ambientes.
 
@@ -22,7 +22,7 @@ Este documento irá abordar de forma mais específica sobre do que se trata a ap
 
 * __Persona 6:__ Marcos tem 22 anos, é natural de Belo Horizonte e trabalha com organização de eventos. O jovem tem a necessidade de sempre manter uma boa aparência, pois a todo momento precisa estar presente em eventos promovidos pela sua empresa, sendo assim, é importante manter seu corte de cabelo e barba sempre atualizados. Como as datas e horários variam ao longo do ano, Marcos não tem um período estabelecido na semana para ir à barbearia, estando sujeito à falta de vagas para realizar o corte. O organizador precisa cuidar do seu visual em média duas vezes por semana. Tendo em vista a sua demanda, Marcos precisa de uma barbearia que sempre tenha disponibilidade para qualquer dia e horário. Existe a preferência de que o estabelecimento tenha a flexibilidade de disponibilizar um profissional para ir ao local que o cliente precise e executar o corte em um lugar improvisado, sem que isso prejudique a qualidade do trabalho.
 
-* __Persona 7:__
+* __Persona 7:__(Pedro Matta - Adicionar Persona)
 
 ## Histórias de Usuários
 
@@ -33,9 +33,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Administrador       | Alterar permissões                        | Administrar contas e páginas    |
 |Usuários            | Criar, configurar, personalizar sua conta | Encontrar a barbearia ideal     |
 |Donos das barbearias| Criar uma página e portifólio do estabelecimento | Promover, conquistar e agradar clientes |
-|Mohammad            | Encontrar uma barbearia com produtos específicos | Alergia                  |
-|Afonso              | Encontrar um local com ambiente maduro    | Pessoa idosa                    |
-|Arthur              | Barbearia infantil                        | Levar seu filho César para cortar cabelo |
+|Usuário             | Encontrar uma barbearia com produtos específicos | Alergia                  |
+|Usuário             | Encontrar um local com ambiente maduro    | Pessoa idosa                    |
+|Usuário             | Barbearia infantil                        | Levar seu filho César para cortar cabelo |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
