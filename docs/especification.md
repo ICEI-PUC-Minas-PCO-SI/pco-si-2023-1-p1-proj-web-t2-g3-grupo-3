@@ -8,7 +8,7 @@ Este documento irá abordar de forma mais específica sobre do que se trata a ap
 
 ## Personas
 
-* __Persona 1:__ O administrador (terminar)
+* __Persona 1:__ O administrador irá controlar as contas e perfis de usuários e barbearias.
 
 * __Persona 2:__ Os usuários são todas as personas vistas de um modo geral, com o objetivo de criar e personalizar um perfil com informações e necessidades específicas.
 
