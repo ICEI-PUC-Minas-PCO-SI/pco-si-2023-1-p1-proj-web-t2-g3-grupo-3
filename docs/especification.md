@@ -53,6 +53,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| Permitir que o usuário consiga marcar horário na barbearia desejada | ALTA | Gabriel Neves |
 |RF-007| Permitir que o usuário consiga desmarcar horário nas barbearias | ALTA | Michael |
 |RF-008| Permitir o usuário consultar quais horários estão marcados em seu nome | ALTA | Gabriel Arrabal |
+|RF-009| Permitir o cliente avaliar a barbearia | MÉDIA | Samuel |
+|RF-010| Permitir o cliente a comentar sobre a barbearia | MÉDIA | Filipe Fernandes |
 
 ### Requisitos não Funcionais
 
@@ -60,23 +62,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar agendamento do usuário em no máximo 3s | BAIXA | 
-|RNF-003| Permitir o cliente avaliar a barbearia | MÉDIA |
-|RNF-004| Permitir o cliente a comentar sobre a barbearia | MÉDIA |
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-003| A aplicação deve ter disponibilidade 100% do tempo | ALTA |
+|RNF-004| Os usuários poderão usar o aplicativo após um pequeno tutorial | BAIXA |
+|RNF-005| A aplicação deverá ter exatidão de 100% na busca de barbearias | MÉDIA |
 
 ## Restrições
 
@@ -86,6 +74,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+|03| Usar a linguagem HTML                                 |
+|04| Usar a linguagem CSS                                  |
+|05| Todos participantes devem colaborar na produção       |
 
 ## Diagramas e Casos de Uso
 
