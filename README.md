@@ -7,7 +7,7 @@
 
 `SEMESTRE: 1º`
 
-(Pedro Arthur) Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este projeto visa a criação de um sistema de barbearia para beneficiar diretamente  pessoas que encontram  dificuldades em achar barbearias próximas de sua residência, melhorando sua experiência no convívio destes lugares  através de um modelo de aplicativo que mapeia o local onde ela está e  entrega as melhores barbearias segundo as descrições do cliente procurando a menor distância possível, através de linguagens de programação e técnicas voltadas ao desenvolvimento web.
 
 ## Integrantes
 
