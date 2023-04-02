@@ -20,7 +20,7 @@ Este documento irá abordar de forma mais específica sobre do que se trata a ap
 
 * __Persona 5:__ Marcos tem 22 anos, é natural de Belo Horizonte e trabalha com organização de eventos. O jovem tem a necessidade de sempre manter uma boa aparência, pois a todo momento precisa estar presente em eventos promovidos pela sua empresa, sendo assim, é importante manter seu corte de cabelo e barba sempre atualizados. Como as datas e horários variam ao longo do ano, Marcos não tem um período estabelecido na semana para ir à barbearia, estando sujeito à falta de vagas para realizar o corte. O organizador precisa cuidar do seu visual em média duas vezes por semana. Tendo em vista a sua demanda, Marcos precisa de uma barbearia que sempre tenha disponibilidade para qualquer dia e horário. Existe a preferência de que o estabelecimento tenha a flexibilidade de disponibilizar um profissional para ir ao local que o cliente precise e executar o corte em um lugar improvisado, sem que isso prejudique a qualidade do trabalho.
 
-* __Persona 6:__(Pedro Matta - Adicionar Persona)
+* __Persona 6:__Joao Betti possui 56 anos, natural do Brasil-MG, empregado com o cargo de ti, mora em Belo horizonte, sendo ele uma pessoa não muito vaidosa ele frequenta normalmente a barbearia de três em três meses tem prioridades em barbearias mais simples e perto de sua casa com um preço mais acessível e com um ambiente bom para trocar uma ideia e fazer sua barba e seu corte básico.
 
 ## Histórias de Usuários
 
