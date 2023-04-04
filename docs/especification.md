@@ -42,7 +42,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----| ----|
 |RF-001| Permitir que o usuário crie uma conta | ALTA | Gabriel Neves |
 |RF-002| Permitir que o usuário cadastre sua barbearia | ALTA | Gabriel Arrabal |
-|RF-002| Permitir que o usuário consiga alterar as informações da conta | MÉDIO | Filipe Fernandes |
+|RF-002| Permitir que o usuário consiga alterar as informações da conta | MÉDIO | Felipe Fernandes |
 |RF-003| Permitir que o usuário inclua requisitos e necessidades que o melhor atenda | MÉDIO | Pedro Arthur |
 |RF-004| Permitir que o usuário encontre barbearias condizentes com as necessidades e requisitos próprios | ALTA | Samuel |
 |RF-005| Permitir que as barbearias criem seu portifólio detalhado com redes sociais, produtos, cortes, localização, preços, ambiente e características do local | ALTA | Pedro Matta |
@@ -50,7 +50,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-007| Permitir que o usuário consiga desmarcar horário nas barbearias | ALTA | Michael |
 |RF-008| Permitir o usuário consultar quais horários estão marcados em seu nome | ALTA | Gabriel Arrabal |
 |RF-009| Permitir o cliente avaliar a barbearia | MÉDIA | Samuel |
-|RF-010| Permitir o cliente a comentar sobre a barbearia | MÉDIA | Filipe Fernandes |
+|RF-010| Permitir o cliente a comentar sobre a barbearia | MÉDIA | Felipe Fernandes |
 
 ### Requisitos não Funcionais
 
