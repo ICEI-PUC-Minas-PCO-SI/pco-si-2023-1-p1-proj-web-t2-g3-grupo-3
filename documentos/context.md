@@ -1,4 +1,4 @@
-#Introdução
+## Introdução
 
  O ato de ir a barbearia é uma forma comum e necessária de cuidar da própria aparência, mas, com certeza é mais acolhedora quando as pessoas vão a uma barbearia que as agradam, seja com uma boa conversa, uma boa sinuca, ou simplesmente um bom preço.
 
