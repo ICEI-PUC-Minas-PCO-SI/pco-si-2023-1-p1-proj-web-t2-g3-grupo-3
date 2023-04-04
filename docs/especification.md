@@ -69,7 +69,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|02| Não pode ser desenvolvido um módulo de back-end        |
 |03| Usar a linguagem HTML                                 |
 |04| Usar a linguagem CSS                                  |
 |05| Todos participantes devem colaborar na produção       |
