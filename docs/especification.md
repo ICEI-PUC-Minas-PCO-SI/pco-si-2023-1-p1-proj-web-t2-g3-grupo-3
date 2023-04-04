@@ -35,8 +35,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário             | Encontrar um local com ambiente maduro    | Pessoa idosa                    |
 |Usuário             | Barbearia infantil                        | Levar seu filho César para cortar cabelo |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
@@ -80,4 +78,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagramas e Casos de Uso
 
-fazer um diagrama de caso
