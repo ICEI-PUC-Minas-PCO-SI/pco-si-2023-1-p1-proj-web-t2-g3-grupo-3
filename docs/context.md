@@ -1,5 +1,5 @@
 # Introdução
-O ato de ir a barbearia é uma forma comum e necessária de cuidar da própria aparência, mas, com certeza é a mais acolhedor quando as pessoas vão a uma barbearia que os agradam, seja com uma boa conversa e uma boa sinuca ou simplesmente por um bom preço.
+O ato de ir a barbearia é uma forma comum e necessária de cuidar da própria aparência, mas com certeza é a mais acolhedor quando as pessoas vão a uma barbearia que os agradam, seja com uma boa conversa e uma boa sinuca ou simplesmente por um bom preço.
 
 ## Problema
 O problema que nos levou a criar a aplicação, se dá ao fato de que há uma grande dificuldade relatada por moradores, turistas, e estudantes de encontrar barbearias na Grande Belo Horizonte que atendem a alguns requisitos específicos de cada cliente, como: preço, produtos utilizados, tipos de cabelo, espaço para lazer, bebidas, cortes para crianças e idosos, cada um de acordo com sua necessidade.
