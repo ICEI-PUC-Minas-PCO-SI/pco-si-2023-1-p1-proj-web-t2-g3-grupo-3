@@ -51,16 +51,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-008| Permitir o usuário consultar quais horários estão marcados em seu nome | ALTA | Gabriel Arrabal |
 |RF-009| Permitir o cliente avaliar a barbearia | MÉDIA | Samuel |
 |RF-010| Permitir o cliente a comentar sobre a barbearia | MÉDIA | Felipe Fernandes |
+|RN-011| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | Felipe Fernandes | 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar agendamento do usuário em no máximo 3s | BAIXA | 
-|RNF-003| A aplicação deve ter disponibilidade 100% do tempo | ALTA |
-|RNF-004| Os usuários poderão usar o aplicativo após um pequeno tutorial | BAIXA |
-|RNF-005| A aplicação deverá ter exatidão de 100% na busca de barbearias | MÉDIA |
+|RNF-001| Deve processar agendamento do usuário em no máximo 3s | BAIXA | 
+|RNF-002| A aplicação deve ter disponibilidade 100% do tempo | ALTA |
+|RNF-003| Os usuários poderão usar o aplicativo após um pequeno tutorial | BAIXA |
+|RNF-004| A aplicação deverá ter exatidão de 100% na busca de barbearias | MÉDIA |
 
 ## Restrições
 
