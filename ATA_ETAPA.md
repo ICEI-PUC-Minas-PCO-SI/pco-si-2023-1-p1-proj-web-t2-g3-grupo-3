@@ -5,11 +5,10 @@
 * Gabriel Neves
 * Samuel <br> 
 
-Responsáveis por criar o WireFrame <br> 
+Responsáveis por criar o WireFrame e UserFlow <br> 
 * Felipe 
 * Pedro Arthur 
-  
-Responsáveis por criar o UserFlow <br> 
-
 * Pedro Matta 
+
+
 
