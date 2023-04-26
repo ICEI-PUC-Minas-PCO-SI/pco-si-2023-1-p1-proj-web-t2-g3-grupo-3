@@ -5,5 +5,5 @@
 * Gabriel Neves -
 * Samuel -
 * Felipe -
-* Pedro Arthur - encarregado de construir o userflow mostrando passo a passo cada funcionalidade apartir de açãoes feitas no aplicatiovo.
+* Pedro Arthur - Encarregado de construir o userflow mostrando cada funcionalidade da aplicação apartir de ações feitas no aplicativo.
 * Pedro Matta - 
