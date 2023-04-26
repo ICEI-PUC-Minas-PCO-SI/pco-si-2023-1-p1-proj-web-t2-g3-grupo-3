@@ -1,0 +1,246 @@
+:root{
+    --color-1: #F2EA7E;
+    --color-2: #D9D0C5;
+    --color-3: #8C2020;
+    --color-4: #732C2C;
+    --color-5: #0D0D0D;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--color-2);
+  }
+
+  /******* fim da estilização geral********/
+
+   /******* header e nav bar********/
+
+header{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   background: var(--color-4);
+   }
+
+   header img{
+    margin-top: 5px;
+        width: 100px;
+   }
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bold;
+    height: 15vh;
+    width: 100%;
+}
+
+.nav-list{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+}
+
+.nav-list li{
+    margin-left: 10px;
+}
+
+
+.nav-list a{
+    color: var(--color-5);
+    background-color: var(--color-2);
+    text-decoration: none;
+    transition: 0.5s;
+    padding: 12px;
+    border-radius: 10px;
+}
+
+.nav-list a:hover{
+    background-color: var(--color-5);
+    padding: 15px;
+    color: var(--color-2);
+    border-radius: 10px;
+}
+
+#divBusca{
+    background-color:#E0EEEE;
+    border:solid 2px var(--color-2);
+    border-radius:10px;
+    width:350px;
+    height:32px;
+}
+  
+#txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width: 190px;
+    outline: none;
+}
+  
+#btnBusca{
+    border:none;
+    float:right;
+    height:100%;
+    border-radius:0 7px 7px 0;
+    width:30%;
+    font-weight:bold;
+    background: var(--color-2);
+    cursor: pointer;
+}
+
+#btnbusca button:hover{
+    background-color: var(--color-5);
+}
+  
+  /******* fim da nav bar********/
+
+  /******* Carrosel ********/
+
+main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container-slider{
+    display: flex;
+    width: 90%;
+    align-items: top;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .container-images{
+    position: relative;
+    display: flex;
+    align-items: top;
+    justify-content: center;
+    width: 100%;
+    z-index: -1;
+    border-radius: 5px;
+    box-shadow: 0px 0px 7px var(--color-dark5);
+    height: 30vw;
+  }
+  
+  
+  .slider{
+    opacity: 0;
+    transition: opacity .2s;
+    height: 330px;
+    position: absolute;
+    width: 100%;
+    border-radius: 10px;
+    height: 100%;
+  }
+  
+  .on{
+    opacity: 1;
+  }
+  
+  #prev-button, #next-button{
+    width: 50px;
+    height: 30px;
+    border: none;
+    color: var(--color-white);
+    background-color: transparent;
+    cursor: pointer;
+  }
+
+  .img-seta{
+    color: var(--color-yellow);
+    background-color: transparent;
+    padding-top: 200px;
+    padding-bottom: 180px;
+    width: 100%;
+    height: 100%;
+  
+  }
+
+
+  /******* fim do carrossel********/
+
+#maps{
+    display: flex;
+    margin: 20px;
+    width: 60%;
+    height: 60vh;
+    border: 1px solid black;
+    box-shadow: 0 0 2px;
+    float: right;
+    border-radius: 5px;
+}
+
+#maps img{
+    width: 100%;
+}
+
+#sobre{
+    color: var(--color-2);
+    background: url(img/sobre.jpg);
+    margin: 20px;
+    width: 30%;
+    height: 60vh;
+    border-radius: 5px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+
+#sobre img{
+    width: 100%;
+}
+
+#caixas{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.cont{
+    background: url(img/perfil2.jpeg) no-repeat;
+    background-size: 100%;
+    display: inline-block;
+    width: 20%;
+    height: 50vh;
+    border: 1px solid black;
+    box-shadow: 0px 0px 2px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.cont p{
+    margin-top: 55%;
+}
+
+
+footer{
+    background-color: var(--color-4);
+    box-shadow: 0px 0px 4px;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    padding: 20px 0 20px 0;
+   }
+
+   #footer-logo{
+    color: var(--color-2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   }
+
