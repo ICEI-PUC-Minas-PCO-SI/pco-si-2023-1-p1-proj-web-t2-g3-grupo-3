@@ -4,6 +4,6 @@
 * Michael -
 * Gabriel Neves - Responsável na definição da logo e paleta de cores da aplicação.
 * Samuel -
-* Felipe -
+* Felipe - Responsável por ajudar na criação do UserFlow e Wireframe, alem de ajudar a organização do grupo
 * Pedro Arthur - Responsavel por ajudar na criação do userflow e wireframe.
 * Pedro Matta - 
