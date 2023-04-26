@@ -1,11 +1,9 @@
-# Etapa 2 do projeto
- `Responsáveis por cuidar do HTML e CSS, na parte do "Template Padrão"`  <br>
-* Gabriel Arrabal 
-* Michael 
-* Gabriel Neves
-* Samuel <br> 
-
-`Responsáveis por criar o WireFrame e UserFlow` <br> 
-* Felipe 
-* Pedro Arthur 
-* Pedro Matta 
+# Etapa 1 do projeto
+ `Função atribuida a cada um na etapa 1 do projeto`  <br>
+* Gabriel Arrabal -
+* Michael -
+* Gabriel Neves -
+* Samuel -
+* Felipe -
+* Pedro Arthur -
+* Pedro Matta - 
