@@ -5,5 +5,4 @@
 * Gabriel Neves -
 * Samuel -
 * Felipe -
-* Pedro Arthur - 
 * Pedro Matta - 
