@@ -17,6 +17,8 @@
 }
 
 main {
+  width: 100%;
+  padding-top: 165px;
   min-height: 700px;
 }
 
