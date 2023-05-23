@@ -4,6 +4,6 @@
 * Michael - Desenvolveu a tela incial(home) e a tela de perfil da barbearia
 * Gabriel Neves - 
 * Samuel Araújo -
-* Felipe - 
+* Felipe - Auxiliou no desenvolvimento da tela de cadastro/ barbeiro e usuario e desenvolveu a tela personalização da barbearia
 * Pedro Arthur - Ficou responsável por criar a tela de sobre nós, complementando a tela inicial (home). 
 * Pedro Matta -
