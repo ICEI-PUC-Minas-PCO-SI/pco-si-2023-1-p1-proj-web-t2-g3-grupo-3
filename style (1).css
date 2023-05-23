@@ -1,0 +1,123 @@
+:root{
+    --color-1: #F2EA7E;
+    --color-2: #D9D0C5;
+    --color-3: #8C2020;
+    --color-4: #732C2C;
+    --color-5: #0D0D0D;
+    --color-6: #ff0000;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: var(--color-2);
+  }
+
+  /** fim da estilização geral**/
+
+   /** header e nav bar**/
+
+header{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   background: var(--color-4);
+   }
+
+   header img{
+    margin-top: 5px;
+        width: 100px;
+   }
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bold;
+    height: 15vh;
+    width: 100%;
+}
+
+.nav-list{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+}
+
+.nav-list li{
+    margin-left: 10px;
+}
+
+
+.nav-list a{
+    color: var(--color-5);
+    background-color: var(--color-2);
+    text-decoration: none;
+    transition: 0.5s;
+    padding: 12px;
+    border-radius: 10px;
+}
+
+.nav-list a:hover{
+    background-color: var(--color-5);
+    padding: 15px;
+    color: var(--color-2);
+    border-radius: 10px;
+}
+
+#divBusca{
+    background-color:#E0EEEE;
+    border:solid 2px var(--color-2);
+    border-radius:10px;
+    width:350px;
+    height:32px;
+}
+
+#txtBusca{
+    float:left;
+    background-color:transparent;
+    padding-left:5px;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width: 190px;
+    outline: none;
+}
+
+#btnBusca{
+    border:none;
+    float:right;
+    height:100%;
+    border-radius:0 7px 7px 0;
+    width:30%;
+    font-weight:bold;
+    background: var(--color-2);
+    cursor: pointer;
+}
+
+#btnbusca button:hover{
+    background-color: var(--color-5);
+}
+
+footer{
+    background-color: var(--color-4);
+    box-shadow: 0px 0px 4px;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    padding: 20px 0 20px 0;
+   }
+
+   #footer-logo{
+    color: var(--color-2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   }
+
+   .container-text-center{
+    margin: 50px;
+   }
+
