@@ -5,5 +5,5 @@
 * Gabriel Neves - 
 * Samuel Araújo -
 * Felipe - 
-* Pedro Arthur - Ficoou responsavel por criar a tela de sobré nós complementando a tela inicial (home). 
+* Pedro Arthur - Ficou responsável por criar a tela de sobre nós, complementando a tela inicial (home). 
 * Pedro Matta -
