@@ -1,0 +1,10 @@
+{
+        "usuario": 
+        {
+            "id": 1,
+            "nome": "admin",
+            "cpf": "111.111.111-11",
+            "email": "barberpoint@gmail.com.br",
+            "senha": "admin123"
+        }
+}

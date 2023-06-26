@@ -7,6 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
     <title>Registro de Cliente - Barber Point</title>
+    <script src="scripts.js" defer></script>
 </head>
 <body>
     <h1>Informações Pessoais</h1>
@@ -14,20 +15,21 @@
         <div class="box_pessoal">
             <form action="">
                 <label>Nome:</label>
-                <input type="text" placeholder="Insira seu nome completo." required size="30">
+                <input type="text" placeholder="Insira seu nome completo." required size="30" id="nome">
                 
                 <label>CPF:</label>
-                <input type="text" pattern="[0-9]{11}" onblur="formataCPF(this)" placeholder="CPF" maxlength="14"/>
+                <input type="text" pattern="[0-9]{11}" onblur="formataCPF(this)" placeholder="CPF" maxlength="14" id="cpf"/>
 
                 <br><br>
 
                 <label>E-mail:</label>
                 <input type="email" autocomplete="on" maxlength="45" size="62" placeholder="exemplo@gmail.com">
+
+                <button onclick="criar(event)">
+                    Finalizar Cadastro
+                </button>
             </form>
         </div>
     </div>
-
-
-    <script src="scripts.js"></script>
 </body>
 </html>
