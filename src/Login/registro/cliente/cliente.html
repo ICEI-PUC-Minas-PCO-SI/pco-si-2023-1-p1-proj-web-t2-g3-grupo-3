@@ -10,22 +10,23 @@
     <script src="scripts.js" defer></script>
 </head>
 <body>
-    <h1>Informações Pessoais</h1>
     <div class="box_total">
         <div class="box_pessoal">
-            <form action="">
+            <form>
+                <h1>Informações Pessoais</h1>
                 <label>Nome:</label>
                 <input type="text" placeholder="Insira seu nome completo." required size="30" id="nome">
                 
                 <label>CPF:</label>
                 <input type="text" pattern="[0-9]{11}" onblur="formataCPF(this)" placeholder="CPF" maxlength="14" id="cpf"/>
 
-                <br><br>
-
                 <label>E-mail:</label>
-                <input type="email" autocomplete="on" maxlength="45" size="62" placeholder="exemplo@gmail.com">
+                <input type="email" autocomplete="on" maxlength="45" size="62" placeholder="exemplo@gmail.com" id="email">
 
-                <button onclick="criar(event)">
+                <label>Senha:</label>
+                <input type="password" id="senha" autocomplete="current-password">
+
+                <button onclick="criar(event)" type="submit" id="send_form">
                     Finalizar Cadastro
                 </button>
             </form>

@@ -1,5 +1,7 @@
 const url = "http://localhost:3000/usuario";
 
+
+//================> CRIAR PERFIL DE CLIENTE
 function criar(event) {
   event.preventDefault(); // Impede o envio do formulário
 
@@ -12,18 +14,51 @@ function criar(event) {
     method: 'POST',
     body: JSON.stringify({
       "nome": nome,
+      "cpf": cpf,
+      "email": email,
       "senha": senha
     }),
     headers: {
       'Content-Type': 'application/json'
     }
-  })
+    })
     .then(() => {
       console.log("Conta criada!");
     });
 }
 
-function formataCPF(cpf) //FUNÇÃO PARA FORMATAR O CPF
+
+//================> CRIAR PERFIL DE BARBEARIA
+function criarBarbearia(event) {
+    event.preventDefault(); // Impede o envio do formulário
+
+    let nome = document.getElementById("nome").value;
+    let email = document.getElementById("email").value;
+    let telefone = document.getElementById("tel").value;
+    let endereco = document.getElementById("endereco").value;
+    let senha = document.getElementById("senha").value;
+
+    fetch("http://localhost:3000/barbeiros", {
+        method: 'POST',
+        body: JSON.stringify({
+        "nome": nome,
+        "email": email,
+        "telefone": telefone,
+        "endereco": endereco,
+        "senha": senha
+        }),
+        headers: {
+        'Content-Type': 'application/json'
+        }
+        })
+        .then(() => {
+        console.log("Conta criada!");
+        });
+}
+
+
+//================> FORMATAÇÃO DE CPF
+function formataCPF(cpf)
 {
     const elementoAlvo = cpf
     const cpfAtual = cpf.value
