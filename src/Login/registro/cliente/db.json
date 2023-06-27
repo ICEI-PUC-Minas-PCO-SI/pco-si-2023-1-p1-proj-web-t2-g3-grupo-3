@@ -1,0 +1,26 @@
+{
+  "usuario": 
+  [
+    {
+      "id": 1,
+      "nome": "admin",
+      "cpf": "111.111.111-11",
+      "email": "barberpoint@gmail.com.br",
+      "senha": "admin123"
+    },
+    {
+      "nome": "Gabriel Neves",
+      "cpf": "110.685.556-61",
+      "email": "gabrieloliveiraquintao@gmail.com",
+      "senha": "gnoq4528",
+      "id": 2
+    },
+    {
+      "nome": "pedro",
+      "cpf": "111.111.111-11",
+      "email": "gabrieloliveiraquintao@gmail.com",
+      "senha": "gcghchgchgvh",
+      "id": 3
+    }
+  ]
+}
