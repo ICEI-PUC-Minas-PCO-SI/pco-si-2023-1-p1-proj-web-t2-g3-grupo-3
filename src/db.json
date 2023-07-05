@@ -1,0 +1,63 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "cpf": "110.685.556-61",
+      "nome": "Michael Pires Passos",
+      "senha": "michamocha1",
+      "email": "michaelpires762@gmail.com",
+      "fone": "(31) 98223-6153",
+      "idade": "20",
+      "cabelo": "cacheado",
+      "preferencias": "que corte rapido",
+      "foto": "",
+      "horarios": [
+        "2023-09-10 11:00",
+        "2023-07-20 15:00",
+        "2023-07-17 13:00"
+      ]
+    }
+  ],
+  "barbeiros": [
+    {
+      "id": "1",
+      "nome": "salão dos cria",
+      "cpf": "110.685.556-61",
+      "senha": "gnoq4528",
+      "foto": "",
+      "email": "pedrodoido@gmail.com",
+      "fone": "(31)98223-6277",
+      "desde": "2000",
+      "sobre": "barbearia foda, ideal pra quem vem do gueto e quer tomar uma enquanto fica na regua.",
+      "endereco": "rua rio dom, 31C. Riacho das Pedras",
+      "especialidades": "Cabelos afros, cacheados e ondulados.",
+      "funcionamento": "De 08:00 até 20:00",
+      "portifolio": "",
+      "servicos": [
+        "corte",
+        "barba"
+      ],
+      "classificacao": 4.5
+    },
+    {
+      "id": "2",
+      "nome": "salão do juan",
+      "cpf": "099.689.555-71",
+      "senha": "flango",
+      "foto": "",
+      "email": "juandoido@gmail.com",
+      "fone": "(31)98250-7260",
+      "desde": "2001",
+      "sobre": "barbearia foda, ideal pra quem vem do gueto e quer tomar uma enquanto fica na regua.",
+      "endereco": "rua rio pó, 777. Riacho das Pedras",
+      "especialidades": "Cabelos lisos e ondulados.",
+      "funcionamento": "De 08:00 até 19:00",
+      "portifolio": "",
+      "servicos": [
+        "corte",
+        "barba"
+      ],
+      "classificacao": 4.5
+    }
+  ]
+}
