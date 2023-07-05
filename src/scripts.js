@@ -1,4 +1,4 @@
-const url = "http://localhost:3000/usuarios";
+const url = "https://tiaw-one.vercel.app/usuarios";
 
 //================> CRIAR PERFIL DE CLIENTE
 function criar(event) {
