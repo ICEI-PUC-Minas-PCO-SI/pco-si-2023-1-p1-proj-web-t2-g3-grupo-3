@@ -1,5 +1,5 @@
 //URL da api:
-const URL = 'http://localhost:3000/usuarios';
+const URL = 'https://tiaw-one.vercel.app/usuarios';
 
 const DadosCliente = document.getElementById('exibir');
 
