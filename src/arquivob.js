@@ -1,6 +1,6 @@
 //URL da api:
-const URL = 'http://localhost:3000/barbeiros';
-const URLU = 'http://localhost:3000/usuarios';
+const URL = 'https://tiaw-one.vercel.app/barbeiros';
+const URLU = 'https://tiaw-one.vercel.app/usuarios';
 
 const DadosBarbeiros = document.getElementById('main');
 
